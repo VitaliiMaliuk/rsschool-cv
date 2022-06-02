@@ -1,5 +1,4 @@
 ## *Vitalii Maliuk*
-*Future front-end developer*
 ![my photo](my_photo.jpg)
 
 ---
