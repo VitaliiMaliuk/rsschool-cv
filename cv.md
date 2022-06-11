@@ -1,5 +1,5 @@
 ## *Vitalii Maliuk*
-![my photo](my_photo.jpg)
+![my photo](./assets/my_photo.jpg)
 
 ---
 #### Skills
