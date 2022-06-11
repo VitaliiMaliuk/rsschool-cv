@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vitaliimaliuk.github.io/rsschool-cv/
