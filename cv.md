@@ -6,6 +6,7 @@
 
 * HTML
 * CSS
+* Javascript
 * Python (basic knowledge)
 * Editors: VC Code, PyCharm
 * Version Control: Git
@@ -32,11 +33,7 @@
 ***
 #### Code Examples
 ```
-def get_next_prime(num):
-    while is_prime(num + 1) == False:
-        num += 1
-        continue
-    return num + 1
+const typeOfSum = (a, b) => typeof(a + b);
 ```
 ***    
 #### Languages
