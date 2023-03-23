@@ -37,6 +37,10 @@ body {
   color: #fff;
   font-size: 18px;
 }
+.nav-link:hover {
+  color: #fe5f1e;
+}
+
 .main-container {
   display: flex;
   flex-wrap: wrap;
